@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line 1: Modified in main branch
+=======
+Line 1: Modified in feature branch
+>>>>>>> feature-branch
